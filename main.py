@@ -13,5 +13,8 @@ with col2:
     Lorem Ipsum passages, and more recently with desktop publishing software 
     like Aldus PageMaker including versions of Lorem Ipsum."""
     st.info(content)
+    
+    
+st.subheader("Bellow you can find some of the apps built in Python. Feel free to contact me")
 
 
